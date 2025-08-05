@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Ntrmal/Ntrmal/main/banner.png) <!-- Replace with your custom banner if you have one -->
+![Header](https://github.com/Ntrmal/Ntrmal/blob/main/Banner.png)
 
 # 👋 Hi, I'm Nirmal Thambi
 
