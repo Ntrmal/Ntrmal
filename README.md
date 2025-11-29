@@ -1,7 +1,8 @@
 ![Header](https://github.com/Ntrmal/Ntrmal/blob/main/Banner.png)
 
 # 👋 Hi, I'm Nirmal Thambi
-    portfolio:https://nirmalthambi.netlify.app
+   --portfolio:https://nirmalthambi.netlify.app
+    
 🎓 Postgraduate in **Data Science** from **Christ University**  
 📍 Based in Pulpally, India | 🇮🇳  
 🔭 Passionate about transforming data into actionable insights  
