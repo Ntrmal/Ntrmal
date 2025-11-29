@@ -4,7 +4,7 @@
    -portfolio:https://nirmalthambi.netlify.app
     
 🎓 Postgraduate in **Data Science** from **Christ University**  
-📍 Based in Pulpally, India | 🇮🇳  
+📍 Based in Bangalore, India | 🇮🇳  
 🔭 Passionate about transforming data into actionable insights  
 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/nirmal-t-88782223a) | 📧 nirmalthambi001@gmail.com  
 
